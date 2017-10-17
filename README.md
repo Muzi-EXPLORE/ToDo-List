@@ -1,6 +1,5 @@
 # Small To Do List App
-
-powered by Python.
+Powered by Python.  
 This thing still needs updating but it works.
 
 # Required Updates
